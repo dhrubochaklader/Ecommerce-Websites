@@ -1,0 +1,36 @@
+#p-1{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.p3-card{
+   margin-top: 530px;
+   margin-right: 10px;
+   border-radius: 10px;
+}
+.p4-card{
+     padding: 10px;
+}
+.p5-card{
+    margin-top: 500px;
+    margin-right: 20px;
+    
+}
+.p6-card{
+    width: 50%;
+    margin-left: 30px;
+    margin-top: 10px;
+    justify-content: space-between;
+    text-align: center;
+}
+.p7-card{
+    border-radius: 10px;
+}
+.p8-card{
+      width: 700px;
+      height: 400px;
+      margin-top: 1500px;
+      margin-right: 50px;
+     
+}
+
